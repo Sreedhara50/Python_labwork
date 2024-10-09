@@ -1,0 +1,22 @@
+My_wallte = 100
+move_ticket = 80
+if (move_ticket <= My_wallte): # Colon added after the if condition
+    print(f'Yes.. i can go to move') # Indentation corrected
+else: # Colon added after else
+    print(f'No.. i can not go to move') # Indentation corrected
+
+
+
+My_marks= 79
+if (My_marks>= 85):
+  print("A+ Grade")
+elif (My_marks>= 80):
+  print("A Grade")
+elif (My_marks>= 75):
+  print("B+ Grade")
+elif (My_marks>= 70):
+  print("B Grade") 
+elif (My_marks>= 65):
+  print("C+ Grade")
+elif (My_marks>= 60):
+  print("C Grade")
